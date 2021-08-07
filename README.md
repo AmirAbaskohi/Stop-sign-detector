@@ -23,4 +23,7 @@ There are two bunch of images:
 * <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/dataset/stop.zip">Stop</a>
 * <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-Coursera/dataset/not_stop.zip">Non stop</a>
 
+## Deploy
+Also I deployed this model on `IBM cloud` which you can access it using <a href="https://stop-sign-detector-610ebf9459083bb6a43c3b62.cw25hygqnp3.eu-gb.codeengine.appdomain.cloud/">this link</a>.
+
 *Amirhossein Abaskohi*
